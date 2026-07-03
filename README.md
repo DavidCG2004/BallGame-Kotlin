@@ -31,8 +31,11 @@ Juego móvil en **Kotlin** que utiliza el **acelerómetro** del dispositivo para
 - **Dependencias externas:** `androidx.core:core-splashscreen:1.0.1`
 
 ## Capturas del Juego
-<img width="600" alt="WhatsApp Image 2026-07-03 at 4 33 38 PM" src="https://github.com/user-attachments/assets/1de1d87c-fde7-4934-a71a-76838ff69864" />
-<img width="600" alt="WhatsApp Image 2026-07-03 at 4 33 39 PM" src="https://github.com/user-attachments/assets/78398c2e-7bdc-419a-940d-308762d3b16f" />
+
+| Pantalla de Juego | Menú Principal |
+|-------------------|----------------|
+| <img src="https://github.com/user-attachments/assets/1de1d87c-fde7-4934-a71a-76838ff69864" width="380" alt="Gameplay Gravity Ball"> | <img src="https://github.com/user-attachments/assets/78398c2e-7bdc-419a-940d-308762d3b16f" width="380" alt="Menú Gravity Ball Kotlin"> |
+
 
 
 ## 📁 Estructura del proyecto
