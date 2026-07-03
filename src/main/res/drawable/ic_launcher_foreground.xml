@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Sombra de la pelota -->
+    <path
+        android:fillColor="#1A000000"
+        android:pathData="M54,72
+            A22,22 0 0,0 72,50
+            A20,20 0 0,1 54,70
+            A20,20 0 0,1 36,50
+            A22,22 0 0,0 54,72Z" />
+
+    <!-- Cuerpo principal con gradiente radial 3D -->
+    <path
+        android:fillColor="@color/ic_ball_gradient"
+        android:pathData="M54,30
+            A24,24 0 0,0 30,54
+            A24,24 0 0,0 54,78
+            A24,24 0 0,0 78,54
+            A24,24 0 0,0 54,30Z" />
+
+    <!-- Brillo / highlight (simula iluminación 3D) -->
+    <path
+        android:fillColor="#B3FFFFFF"
+        android:pathData="M46,38
+            A10,8 0 0,1 60,36
+            A10,8 0 0,0 46,38Z" />
+
+    <!-- Brillo secundario más pequeño -->
+    <path
+        android:fillColor="#66FFFFFF"
+        android:pathData="M52,35
+            A6,5 0 0,1 61,34
+            A6,5 0 0,0 52,35Z" />
+</vector>
